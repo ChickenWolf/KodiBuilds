@@ -1,0 +1,6 @@
+name="Chicken Wolf"
+url="https://archive.org/download/ChickenWolfV1.0/ChickenWolfV1.0.zip"
+img="https://archive.org/download/ebacker99_yahoo_Logo/logo.png"
+fanart="https://archive.org/download/ebacker99_yahoo_Wolf/wolf.jpg"
+description="The best Kodi build ever! Bac Bac Bacooooooooooooohhhhhhhhh!!!"
+
